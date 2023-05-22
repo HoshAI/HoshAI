@@ -26,7 +26,26 @@
   ![javascript](https://img.shields.io/badge/javascript-05122A?style=flat&logo=javascript)&nbsp;
   ![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=Python)&nbsp;
   
+  ----
+  
   ⚒️ <b> Database Management</b>
   
   ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=MySQL&logoColor=29B6F6)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+  
+  ----
+
+⚒️ <b> libraries </b>
+
+![Node.js](https://img.shield.io/badge/Node.js-05122A?style=flat&logo=Node.js&logoColor=29B6F6)&nbsp;
+![Django](https://img.shield.io/badge/Django-05122A?style=flat&logo=Django)&nbsp;
+![Laravel](https://img.shield.io/badge/Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+
+-----
+
+📈 <b>My Github stats</b>
+
+<p align = "center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=HoshAI&show_icons=true&theme=tokyonight&line_height=40">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HoshAI&hide=css,java,html&theme=tokyonight">
+   </p?
