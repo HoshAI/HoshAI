@@ -23,3 +23,5 @@
   ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=PHP)&nbsp;
+  ![javascript](https://img.shields.io/badge/javascript-05122A?style=flat&logo=javascript)&nbsp;
+  ![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=Python)&nbsp;
