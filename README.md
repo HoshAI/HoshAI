@@ -25,3 +25,8 @@
   ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=PHP)&nbsp;
   ![javascript](https://img.shields.io/badge/javascript-05122A?style=flat&logo=javascript)&nbsp;
   ![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=Python)&nbsp;
+  
+  ⚒️ <b> Database Management</b>
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=MySQL&logoColor=29B6F6)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
