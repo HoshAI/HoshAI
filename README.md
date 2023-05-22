@@ -1,5 +1,5 @@
 <H1 align='center'>Hi 👋 I am Ayodeji! </H1>
-<p align='center'>I am a full stack developer, passionate about building innovative and exciting projects using Flutter.</p>
+<p align='center'>I am a full stack developer, passionate about building innovative and exciting projects using Flutter, PHP, javascript and python.</p>
 
 <p align='center'>
 <a href="mailto:emmanuelayodeji09@gmail.com">
@@ -13,7 +13,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ayodeji-imanuel-39b109175/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logocolor=white" />
-   < /a>&nbsp;&nbsp;
+   </a>&nbsp;&nbsp;
      <!-- <img src="https://gpvc.arturio.dev/hoshAI" /> -->
      </p>
   
