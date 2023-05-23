@@ -37,9 +37,9 @@
 
 ⚒️ <b> libraries </b>
 
-![Node.js](https://img.shield.io/badge/Node.js-05122A?style=flat&logo=Node.js&logoColor=29B6F6)&nbsp;
-![Django](https://img.shield.io/badge/Django-05122A?style=flat&logo=Django)&nbsp;
-![Laravel](https://img.shield.io/badge/Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=Node.js&logoColor=29B6F6)&nbsp;
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=Django)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=Laravel)&nbsp;
 
 -----
 
