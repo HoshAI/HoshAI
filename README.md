@@ -6,7 +6,7 @@
 
 -  Background in Geophysics & explorative minning.
 -  📊 Experienced in data analysis, machine learning, and statistical modeling
-- passionate about ** Machine Learning, Data Science, and Applied Research** 
+- passionate about  Machine Learning, Data Science, and Applied Research
 - 🧠 Skilled in Python, R, SQL, and popular data science libraries (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn)
 - 💾 Proficient in data wrangling, visualization, and storytelling
 - 🚀 Focused on solving real-world problems with data-driven solutions
@@ -20,6 +20,7 @@
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud**: AWS, Google Cloud Platform, Azure
 - **Version Control**: Git, GitHub
+- **Data Engineering:** SQL, Airflow, Spark, Databricks
 
 ## 🛠️ What I Do
 
