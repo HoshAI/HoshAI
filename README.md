@@ -1,51 +1,53 @@
-<H1 align='center'>Hi 👋 I am Ayodeji! </H1>
-<p align='center'>I am a full sta, passionate about building innovative and exciting projects using Flutter, PHP, javascript and python.</p>
+# 👩‍💻 Data Scientist & Machine Learning Engineer | Researcher — README
 
-<p align='center'>
-<a href="mailto:emmanuelayodeji09@gmail.com">
-   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/wagmii_">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://lifeofhosh.hashnode.dev"/>
-   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ayodeji-imanuel-39b109175/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logocolor=white" />
-   </a>&nbsp;&nbsp;
-     <!-- <img src="https://gpvc.arturio.dev/hoshAI" /> -->
-     </p>
-  
-  🛠️ <b>Tech Stack</b>
-  
-  ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
-  ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=PHP)&nbsp;
-  ![javascript](https://img.shields.io/badge/javascript-05122A?style=flat&logo=javascript)&nbsp;
-  ![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=Python)&nbsp;
-  
-  ----
-  
-  🧰 <b> Database Management</b>
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=MySQL&logoColor=29B6F6)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-  
-  ----
+ Turning data into actionable insights, building intelligent systems, and exploring cutting-edge research in AI/ML.
 
-♎ <b> libraries </b>
+## 👤 About Me
 
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=Node.js&logoColor=29B6F6)&nbsp;
-![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=Django)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+-  Background in Geophysics & explorative minning.
+-  📊 Experienced in data analysis, machine learning, and statistical modeling
+- passionate about ** Machine Learning, Data Science, and Applied Research** 
+- 🧠 Skilled in Python, R, SQL, and popular data science libraries (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn)
+- 💾 Proficient in data wrangling, visualization, and storytelling
+- 🚀 Focused on solving real-world problems with data-driven solutions
 
------
+## 🔨 Tools & Technologies
 
-📈 <b>My Github stats</b>
+- **Languages**: Python, R, SQL, Bash
+- **Data Science**: Jupyter Notebook, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, XGBoost
+- **Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- **Big Data**: Spark, Hadoop, Dask
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Cloud**: AWS, Google Cloud Platform, Azure
+- **Version Control**: Git, GitHub
 
-<p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=HoshAI&show_icons=true&theme=tokyonight&line_height=40">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HoshAI&hide=css,java,html&theme=tokyonight">
-   </p?
+## 🛠️ What I Do
+
+- Exploratory Data Analysis (EDA)
+- Predictive Modeling & Machine Learning
+- Data Cleaning & Preparation
+- Feature Engineering
+- Data Visualization & Reporting
+- Model Deployment & Monitoring
+- Business Intelligence & Strategy
+
+## 📫 How to Reach Me
+
+- [GitHub](https://github.com/HoshAI)
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- [Email](mailto:YOUR-EMAIL@domain.com)
+
+## 🌟 Featured Projects
+
+Check out my top repositories:
+- [Jabitha-fashion-brand](https://github.com/HoshAI/Jabitha-fashion-brand)
+- [fastkoin.io](https://github.com/HoshAI/fastkoin.io)
+- [awesome-cheatsheets](https://github.com/HoshAI/awesome-cheatsheets)
+- [Portfolio](https://github.com/HoshAI/Portfolio)
+- [HoshAI](https://github.com/HoshAI/HoshAI)
+
+---
+
+> "Data is the new oil. Extract, refine and create value!"
+
+Feel free to connect or collaborate!
