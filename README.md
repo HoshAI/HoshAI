@@ -1,5 +1,5 @@
 <H1 align='center'>Hi 👋 I am Ayodeji! </H1>
-<p align='center'>I am a full stack developer, passionate about building innovative and exciting projects using Flutter, PHP, javascript and python.</p>
+<p align='center'>I am a full sta, passionate about building innovative and exciting projects using Flutter, PHP, javascript and python.</p>
 
 <p align='center'>
 <a href="mailto:emmanuelayodeji09@gmail.com">
