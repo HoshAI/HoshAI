@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
--  Background in Geophysics & explorative minning.
+- 🎓 Background in Geophysics & explorative mining.
 -  📊 Experienced in data analysis, machine learning, and statistical modeling
 - passionate about  Machine Learning, Data Science, and Applied Research
 - 🧠 Skilled in Python, R, SQL, and popular data science libraries (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn)
